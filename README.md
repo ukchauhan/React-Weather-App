@@ -76,7 +76,7 @@ const API_KEY = "YOUR_API_KEY";
 ```
 
 You can generate a free API key from:
-👉 [https://openweathermap.org/api](https://openweathermap.org/api)
+Free Weather APIs
 
 ---
 
